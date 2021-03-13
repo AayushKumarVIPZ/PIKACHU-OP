@@ -206,7 +206,7 @@ PIKACHU-OP"),
                       [ 
                         InlineKeyboardButton(
                              text=" ✨ Support ",
-                             url="https://t.me/we_are_FriendsForeverVIP"),
+                             url="https://t.me/pro_masti"),
                         InlineKeyboardButton(
                              text=" 👨‍💻 Creator ",
                              url="https://t.me/AayushKumarVIP")
