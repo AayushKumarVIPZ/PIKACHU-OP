@@ -69,7 +69,7 @@ Here is modules:
 
 LEGEND_IMG = "https://telegra.ph/file/346b0ed28637418333fb7.jpg"
 
-DONATE_STRING = """Hello, glad to hear you want to donate!
+DONATE_STRING = """Hey, glad to hear you want to donate!
 Legend is hosted on one of Heroku's Servers and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Paul
 There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
