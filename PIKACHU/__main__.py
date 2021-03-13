@@ -67,9 +67,9 @@ Here is modules:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can be triggered with the following: /, !.\n")
 
-LEGEND_IMG = "https://telegra.ph/file/3088bf99d782acc902fc6.jpg"
+LEGEND_IMG = "https://telegra.ph/file/346b0ed28637418333fb7.jpg"
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
+DONATE_STRING = """Hello, glad to hear you want to donate!
 Legend is hosted on one of Heroku's Servers and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Paul
 There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
@@ -197,7 +197,8 @@ def start(update: Update, context: CallbackContext):
                      [
                         InlineKeyboardButton(
                             text=" ⚡ ѕσυя¢є ¢σ∂є ",
-                            url="https://t.me/pro_masti"),
+                            url="https://github.com/AayushKumarVIPZ/PIKACHU-OP
+PIKACHU-OP"),
                          InlineKeyboardButton(
                             text=" ❤️ Channel ",
                              url="https://t.me/pikachubotupdates")        
@@ -205,10 +206,10 @@ def start(update: Update, context: CallbackContext):
                       [ 
                         InlineKeyboardButton(
                              text=" ✨ Support ",
-                             url="https://t.me/pikachubotsupport"),
+                             url="https://t.me/we_are_FriendsForeverVIP"),
                         InlineKeyboardButton(
                              text=" 👨‍💻 Creator ",
-                             url="https://t.me/PYTHON_CODER_SRINIVAS")
+                             url="https://t.me/AayushKumarVIP")
                     
                     ]]))
     else:
